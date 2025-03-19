@@ -1,0 +1,16 @@
+{
+  "name": "samsfood",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "npx @tailwindcss/cli -i ./src/styles.css -o ./public/styles.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.14",
+    "tailwindcss": "^4.0.14"
+  }
+}

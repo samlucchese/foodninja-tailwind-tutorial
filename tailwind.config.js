@@ -17,7 +17,10 @@ module.exports = {
 			body: ['Schibsted Grotesk'],
 			heading: ['Playfair Display'],
 			course: ['Nunito'],
-		}
+		},
+		fontSize: {
+			mammoth: '100px',
+		},
 	},
   },
   plugins: [],
